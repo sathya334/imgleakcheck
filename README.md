@@ -6,7 +6,7 @@ I started thinking about this while working on a brain tumor MRI classifier. If 
 
 
 
-![A test image next to its copy in the train set](docs/example.png)
+![A test image next to its copy in the train set](leak_0_leaked_0.png)
 
 
 
