@@ -1,0 +1,9 @@
+demo/
+leak_pairs/
+*.csv
+__pycache__/
+.pytest_cache/
+.vscode/
+*.egg-info/
+dist/
+build/
